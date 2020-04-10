@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Pensieri, parole e progetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 05 Apr 2020 17:06:52 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 15:18:29 +0200</lastBuildDate>
     
 	<atom:link href="https://scribus79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>pensieri</title>
       <link>https://scribus79.github.io/tags/pensieri/</link>
-      <pubDate>Sun, 05 Apr 2020 17:06:52 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2020 15:18:29 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/pensieri/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>quarantena</title>
       <link>https://scribus79.github.io/tags/quarantena/</link>
-      <pubDate>Sun, 05 Apr 2020 17:06:52 +0200</pubDate>
+      <pubDate>Wed, 08 Apr 2020 15:18:29 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/quarantena/</guid>
       <description></description>
@@ -62,6 +62,15 @@
       <pubDate>Sun, 29 Mar 2020 18:35:17 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/libri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elenco</title>
+      <link>https://scribus79.github.io/tags/elenco/</link>
+      <pubDate>Wed, 25 Mar 2020 12:08:29 +0100</pubDate>
+      
+      <guid>https://scribus79.github.io/tags/elenco/</guid>
       <description></description>
     </item>
     
