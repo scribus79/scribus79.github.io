@@ -6,24 +6,15 @@
     <description>Recent content in Tags on Pensieri, parole e progetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 14 Apr 2020 11:49:03 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 22:39:51 +0200</lastBuildDate>
     
 	<atom:link href="https://scribus79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>giardino</title>
-      <link>https://scribus79.github.io/tags/giardino/</link>
-      <pubDate>Tue, 14 Apr 2020 11:49:03 +0200</pubDate>
-      
-      <guid>https://scribus79.github.io/tags/giardino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pensieri</title>
       <link>https://scribus79.github.io/tags/pensieri/</link>
-      <pubDate>Tue, 14 Apr 2020 11:49:03 +0200</pubDate>
+      <pubDate>Thu, 23 Apr 2020 22:39:51 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/pensieri/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>quarantena</title>
       <link>https://scribus79.github.io/tags/quarantena/</link>
-      <pubDate>Tue, 14 Apr 2020 11:49:03 +0200</pubDate>
+      <pubDate>Thu, 23 Apr 2020 22:39:51 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/quarantena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giardino</title>
+      <link>https://scribus79.github.io/tags/giardino/</link>
+      <pubDate>Tue, 14 Apr 2020 11:49:03 +0200</pubDate>
+      
+      <guid>https://scribus79.github.io/tags/giardino/</guid>
       <description></description>
     </item>
     
