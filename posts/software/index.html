@@ -161,7 +161,7 @@ Di fatto, una volta installato e configurato (è semplice), basterà scrivere le
 <p>Linux installato e funzionante (per semplicità suggerisco Ubuntu o derivate)</p>
 </li>
 <li>
-<p>Pacchetto Git installato - Dovrebbe bastare digitare da terminale 
+<p>Pacchetto Git installato - Dovrebbe bastare digitare da terminale
 <code>sudo apt install git</code></p>
 </li>
 <li>
@@ -232,12 +232,13 @@ Digitiamo:</p>
 <p>Ora possiamo aggiungere altri post, modificare con Visual Studio Code la pagina about (basta editare il file <code>about.md</code>) e divertirci a personalizzare il sito. Se si è capaci a programmare si possono anche modificare parti del tema per renderlo più adatto al proprio gusto.</p>
 <h1 id="github">Github</h1>
 <p>Vediamo ora come pubblicare il sito online.
-Bisogna avere un account e dure repository pubblici attivi, il primo sarà chiamato ad esempio <code>blog</code> e l&rsquo;altro <code>nomeutente.github.io</code>, dove ovviamente nomeutente è il vostro nome utente su GitHub.
+Bisogna avere un account e due repository pubblici attivi, il primo sarà chiamato ad esempio <code>blog</code> e l&rsquo;altro <code>nomeutente.github.io</code>, dove ovviamente nomeutente è il vostro nome utente su GitHub.
 Attenzione: se volete che il vostro sito sia accessibile all&rsquo;indirizzo <code>https://Pippo.github.io</code> il vostro nome utente dovrà essere &ldquo;Pippo&rdquo; e dovrete creare un repository <code>Pippo.github.io</code>.</p>
 <p>Ogni repository ha un link specifico in questo formato:</p>
 <p><code>https://github.com/nomeutente/repository.git</code></p>
 <p>Se ad esempio volete lavorare sul repository blog, il link sarà <code>https://github.com/nomeutente/blog.git</code>.
 Questo link si trova sulla pagina del repository, in alto a destra cliccando sul tasto &ldquo;Clone or download&rdquo;, andate nella pagina e copiatelo.</p>
+<p><img src="https://scribus79.github.io/images/github_download.jpg" alt="D"></p>
 <p>Vediamo ora al nostro sistema ed impostiamo git per fare l&rsquo;upload del sito.</p>
 <p>Entrate nella cartella del vostro sito, ad esempio <code>/home/user/Websites/prova/</code> e scrivete:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">git remote add origin https://github.com/nomeutente/repository.git
@@ -246,7 +247,7 @@ git pull origin master
 <p><code>vim .gitignore</code></p>
 <p>In alternativa a Vim si può usare Visual Studio Code.
 Qui scriveremo semplicemente</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">public\
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">public/
 </code></pre></div><p>Di seguito andremo ad aggiungere i file al nostro repository:</p>
 <div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">git add --all
 git status
