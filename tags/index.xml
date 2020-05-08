@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Pensieri, parole e progetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 05 May 2020 22:07:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 15:30:52 +0200</lastBuildDate>
     
 	<atom:link href="https://scribus79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>corsa</title>
       <link>https://scribus79.github.io/tags/corsa/</link>
-      <pubDate>Tue, 05 May 2020 22:07:40 +0200</pubDate>
+      <pubDate>Fri, 08 May 2020 15:30:52 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/corsa/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>pensieri</title>
+      <link>https://scribus79.github.io/tags/pensieri/</link>
+      <pubDate>Fri, 08 May 2020 15:30:52 +0200</pubDate>
+      
+      <guid>https://scribus79.github.io/tags/pensieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>quarantena</title>
       <link>https://scribus79.github.io/tags/quarantena/</link>
-      <pubDate>Tue, 05 May 2020 22:07:40 +0200</pubDate>
+      <pubDate>Fri, 08 May 2020 15:30:52 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/quarantena/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Fri, 01 May 2020 11:46:58 +0200</pubDate>
       
       <guid>https://scribus79.github.io/tags/corse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pensieri</title>
-      <link>https://scribus79.github.io/tags/pensieri/</link>
-      <pubDate>Fri, 01 May 2020 11:46:58 +0200</pubDate>
-      
-      <guid>https://scribus79.github.io/tags/pensieri/</guid>
       <description></description>
     </item>
     
